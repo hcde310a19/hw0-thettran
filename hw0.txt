@@ -1,3 +1,22 @@
 # Description of your program (part 7)
+A word is defined as a distinct group of characters.
+The groups of characters are separated by spaces/whitespace.
+As you proceed through the characters, you keep a count and
+increment the count by one as you find a distinct group of
+characters separated by whitespace.
 
 # Reflection on writing your program (part 8)
+This exercise was both easy and difficult. With programming
+experience, my thought process immediately jumped to the
+code that would accomplish the task. Dialing it back and
+thinking in pure english was definitely difficult. It was
+unsatisfying because the code is quite simple, but this
+exercise made it more annoying.
+
+I am excited to work on a project and dealing with data!
+I took a web programming course, so I have learned about API's
+before, but at that time I was struggling to understand
+what was going on, so I am excited to go into this course with
+some basic background knowledge. Python as a language seems
+exciting too. It is also nice to hear that collaboration is
+encouraged, which is quite different than other CS classes.
